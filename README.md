@@ -14,7 +14,7 @@
 
 <small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
 
-## About DCC
+## About FlexID
 
 [FlexID](https://flexid.asia/)  a platform and wallet for the issuance, storage, and sharing of verified digital identity credentials (e.g., driver’s license, land certificate etc.). Its solution replaces paper-based physical credentials, which are expensive to issue, manage, and verify in Emerging Market countries where there is no trusted identity infrastructure. With easy access to verified credentials, FlexID aims to enable individuals to get broader and faster access to a wide range of financial, insurance, healthcare, and agriculture services.
 
@@ -28,7 +28,7 @@ Overview of the FlexID components:
 ### Credentials
 
 FlexID uses the [Verifiable Credentials Data Model](https://w3c.github.io/vc-data-model/) with linked data. 
-- [Authoring guide](authoring/README.md) - authoring DCC credentials
+- [Authoring guide](authoring/README.md) - authoring FlexID credentials
 - [Online credential editing tool](https://flexid.github.io/playground/) - experimental
 - [Modeling Educational Verifiable Credentials](https://w3c-ccg.github.io/vc-ed-models/) 
   - see similar standards incubation efforts at the [W3C VC-EDU task force](https://w3c-ccg.github.io/vc-ed/)
@@ -73,8 +73,8 @@ FlexID uses the [Verifiable Credentials Data Model](https://w3c.github.io/vc-dat
 ## Repositories
 
 - [docs](https://github.com/flexid/docs): (this repo) contains project documentation, broader architectural docs, etc
-- [sign-and-verify](https://github.com/flexid/sign-and-verify): library to sign/issue and verify DCC credentials. 
+- [sign-and-verify](https://github.com/flexid/sign-and-verify): library to sign/issue and verify FlexID credentials. 
 - [credgen](https://github.com/flexid/credgen): command line tool to generate credential templates
-- [learner-credential-wallet](https://github.com/flexid/learner-credential-wallet): repository for DCC react native mobile app to manage and store credentials 
+- [learner-credential-wallet](https://github.com/flexid/learner-credential-wallet): repository for FlexID react native mobile app to manage and store credentials 
 - [designer](https://github.com/flexid/designer): web ui to design credential templates -- intended for developers
 
