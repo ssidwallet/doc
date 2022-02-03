@@ -75,6 +75,6 @@ FlexID uses the [Verifiable Credentials Data Model](https://w3c.github.io/vc-dat
 - [docs](https://github.com/flexid/docs): (this repo) contains project documentation, broader architectural docs, etc
 - [sign-and-verify](https://github.com/flexid/sign-and-verify): library to sign/issue and verify FlexID credentials. 
 - [credgen](https://github.com/flexid/credgen): command line tool to generate credential templates
-- [learner-credential-wallet](https://github.com/flexid/learner-credential-wallet): repository for FlexID react native mobile app to manage and store credentials 
+- [credential-wallet](https://github.com/flexid/credential-wallet): repository for FlexID react native mobile app to manage and store credentials 
 - [designer](https://github.com/flexid/designer): web ui to design credential templates -- intended for developers
 
